@@ -6,7 +6,8 @@
       "article": "1",
       "description": "Удобный стул",
       "cost": "100.00",
-      "prime_cost": "0.00",      
+      "prime_cost": "0.00",
+      "account_id": 39,      
       "file": [
         "http://test.com/ae38fd8774bdffb36020a9ed9bc041.jpg"
       ]
@@ -18,6 +19,7 @@
       "description": "Описание продукта стул ",
       "cost": "200.00",
       "prime_cost": null,
+      "account_id": 39,
       "file": [
         "http://test.com/storage/product/36020a9ed9.png"
       ]
@@ -28,6 +30,7 @@
       "article": "3",
       "description": "Цвет венга",
       "cost": "300.00",
+      "account_id": 39,
       "file": [
         "http://test.com/product/12323.png"
       ]
@@ -38,7 +41,8 @@
       "article": "4",
       "description": "Описание дивана",
       "cost": "400.00",
-      "prime_cost": null,      
+      "prime_cost": null,
+      "account_id": 39,      
       "file": [
         "http://test.com/product/ddseee23ese32.png"
       ]
@@ -49,7 +53,8 @@
       "article": "12-12",
       "description": "Какое-то основное описание товара Windows",
       "cost": "5000.00",
-      "prime_cost": null,      
+      "prime_cost": null,
+      "account_id": 39,      
       "file": [
         "http://test.com/product/d23qwced343seee23dcese32.png"
       ]
@@ -61,6 +66,7 @@
       "description": "Основное поле описания товара Ubuntu",
       "cost": "11000.00",
       "prime_cost": null,
+      "account_id": 39,
       "file": [
       	"http://test.com/ae38fd87vf4vv64020a9ed9bc041.jpg"
       ]
