@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 3274,
+      "name": "Стол лого232323",
+      "article": "1",
+      "description": "Удобный стул",
+      "cost": "100.00",
+      "prime_cost": "0.00",      
+      "file": [
+        "http://test.com/ae38fd8774bdffb36020a9ed9bc041.jpg"
+      ]
+    },
+    {
+      "id": 3275,
+      "name": "Стул",
+      "article": "2",
+      "description": "Описание продукта стул ",
+      "cost": "200.00",
+      "prime_cost": null,
+      "file": [
+        "http://test.com/storage/product/36020a9ed9.png"
+      ]
+    },
+    {
+      "id": 3276,
+      "name": "Шкаф",
+      "article": "3",
+      "description": "Цвет венга",
+      "cost": "300.00",
+      "file": [
+        "http://test.com/product/12323.png"
+      ]
+    },
+    {
+      "id": 3277,
+      "name": "Диван",
+      "article": "4",
+      "description": "Описание дивана",
+      "cost": "400.00",
+      "prime_cost": null,      
+      "file": [
+        "http://test.com/product/ddseee23ese32.png"
+      ]
+    },
+    {
+      "id": 3278,
+      "name": "Windows",
+      "article": "12-12",
+      "description": "Какое-то основное описание товара Windows",
+      "cost": "5000.00",
+      "prime_cost": null,      
+      "file": [
+        "http://test.com/product/d23qwced343seee23dcese32.png"
+      ]
+    },
+    {
+      "id": 3279,
+      "name": "Ubuntu Server",
+      "article": "13-13",
+      "description": "Основное поле описания товара Ubuntu",
+      "cost": "11000.00",
+      "prime_cost": null,
+      "file": [
+      	"http://test.com/ae38fd87vf4vv64020a9ed9bc041.jpg"
+      ]
+    },
+  ],
+}
