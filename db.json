@@ -1,945 +1,980 @@
 {
   "pagination": {
-    "total": 7,
+    "total": 11,
     "per_page": "20",
     "current_page": 1,
     "last_page": 1,
     "from": 1,
-    "to": 7
+    "to": 11
   },
   "products": [
     {
-      "id": 546659,
+      "id": 3253,
+      "name": "Стол лого",
+      "article": "1",
+      "description": "Удобный стул",
+      "cost": "100.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-11-11 15:46:50",
+      "updated_at": "2021-11-11 15:47:20",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [
+        {
+          "id": 127,
+          "value": "114"
+        }
+      ],
+      "file": [
+        "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg"
+      ],
+      "product_custom_field_value": [
+        {
+          "id": 3310,
+          "product_id": 3253,
+          "product_custom_field_id": 127,
+          "value": "114",
+          "created_at": "2021-11-11 15:46:50",
+          "updated_at": "2021-11-11 15:46:50",
+          "field": {
+            "id": 127,
+            "name": "Категория",
+            "type": "category",
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46",
+            "account_id": 39,
+            "position_number": 1,
+            "show": 0,
+            "system": 1,
+            "enum_values": [
+              {
+                "id": 114,
+                "product_custom_field_id": 127,
+                "value": "Общая",
+                "index": 0,
+                "created_at": "2019-05-23 14:27:46",
+                "updated_at": "2019-05-23 14:27:46"
+              },
+              {
+                "id": 154,
+                "product_custom_field_id": 127,
+                "value": "test",
+                "index": 1,
+                "created_at": "2019-06-26 11:02:59",
+                "updated_at": "2019-06-26 11:02:59"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 114,
+            "product_custom_field_id": 127,
+            "value": "Общая",
+            "index": 0,
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 346,
+          "product_id": 3253,
+          "file_id": 661,
+          "created_at": "2021-11-11 15:46:50",
+          "updated_at": "2021-11-11 15:47:20",
+          "src": "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg",
+          "file_relation": {
+            "id": 661,
+            "name": "c8ae38fd8774bdffb36020a9ed9bc041",
+            "file": "c8ae38fd8774bdffb36020a9ed9bc041.jpg",
+            "path": "public/dev-blablatest/Товары",
+            "cropped": 1,
+            "created_at": "2021-11-11 15:47:20",
+            "updated_at": "2021-11-11 15:47:20",
+            "account_id": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": 3254,
+      "name": "Стул",
+      "article": "2",
+      "description": null,
+      "cost": "200.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-11-11 15:46:51",
+      "updated_at": "2021-11-11 15:47:20",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [
+        {
+          "id": 127,
+          "value": "114"
+        }
+      ],
+      "file": [
+        "/storage/dev-blablatest/a52e4255c413902db38d941d4a4a41f4.png"
+      ],
+      "product_custom_field_value": [
+        {
+          "id": 3311,
+          "product_id": 3254,
+          "product_custom_field_id": 127,
+          "value": "114",
+          "created_at": "2021-11-11 15:46:51",
+          "updated_at": "2021-11-11 15:46:51",
+          "field": {
+            "id": 127,
+            "name": "Категория",
+            "type": "category",
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46",
+            "account_id": 39,
+            "position_number": 1,
+            "show": 0,
+            "system": 1,
+            "enum_values": [
+              {
+                "id": 114,
+                "product_custom_field_id": 127,
+                "value": "Общая",
+                "index": 0,
+                "created_at": "2019-05-23 14:27:46",
+                "updated_at": "2019-05-23 14:27:46"
+              },
+              {
+                "id": 154,
+                "product_custom_field_id": 127,
+                "value": "test",
+                "index": 1,
+                "created_at": "2019-06-26 11:02:59",
+                "updated_at": "2019-06-26 11:02:59"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 114,
+            "product_custom_field_id": 127,
+            "value": "Общая",
+            "index": 0,
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 347,
+          "product_id": 3254,
+          "file_id": 662,
+          "created_at": "2021-11-11 15:47:21",
+          "updated_at": "2021-11-11 15:47:21",
+          "src": "/storage/dev-blablatest/a52e4255c413902db38d941d4a4a41f4.png",
+          "file_relation": {
+            "id": 662,
+            "name": "a52e4255c413902db38d941d4a4a41f4",
+            "file": "a52e4255c413902db38d941d4a4a41f4.png",
+            "path": "public/dev-blablatest/Товары",
+            "cropped": 1,
+            "created_at": "2021-11-11 15:47:21",
+            "updated_at": "2021-11-11 15:47:21",
+            "account_id": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": 3255,
+      "name": "Шкаф",
+      "article": "3",
+      "description": "Цвет венга",
+      "cost": "300.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-11-11 15:46:51",
+      "updated_at": "2021-11-11 15:47:21",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [
+        {
+          "id": 127,
+          "value": "114"
+        }
+      ],
+      "file": [
+        "/storage/dev-blablatest/cd35783cd836c9b68ccbd9e4a0d10eb4.jpg"
+      ],
+      "product_custom_field_value": [
+        {
+          "id": 3312,
+          "product_id": 3255,
+          "product_custom_field_id": 127,
+          "value": "114",
+          "created_at": "2021-11-11 15:46:51",
+          "updated_at": "2021-11-11 15:46:51",
+          "field": {
+            "id": 127,
+            "name": "Категория",
+            "type": "category",
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46",
+            "account_id": 39,
+            "position_number": 1,
+            "show": 0,
+            "system": 1,
+            "enum_values": [
+              {
+                "id": 114,
+                "product_custom_field_id": 127,
+                "value": "Общая",
+                "index": 0,
+                "created_at": "2019-05-23 14:27:46",
+                "updated_at": "2019-05-23 14:27:46"
+              },
+              {
+                "id": 154,
+                "product_custom_field_id": 127,
+                "value": "test",
+                "index": 1,
+                "created_at": "2019-06-26 11:02:59",
+                "updated_at": "2019-06-26 11:02:59"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 114,
+            "product_custom_field_id": 127,
+            "value": "Общая",
+            "index": 0,
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 348,
+          "product_id": 3255,
+          "file_id": 663,
+          "created_at": "2021-11-11 15:47:21",
+          "updated_at": "2021-11-11 15:47:21",
+          "src": "/storage/dev-blablatest/cd35783cd836c9b68ccbd9e4a0d10eb4.jpg",
+          "file_relation": {
+            "id": 663,
+            "name": "cd35783cd836c9b68ccbd9e4a0d10eb4",
+            "file": "cd35783cd836c9b68ccbd9e4a0d10eb4.jpg",
+            "path": "public/dev-blablatest/Товары",
+            "cropped": 1,
+            "created_at": "2021-11-11 15:47:21",
+            "updated_at": "2021-11-11 15:47:21",
+            "account_id": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": 3256,
+      "name": "Диван",
+      "article": "4",
+      "description": null,
+      "cost": "400.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-11-11 15:46:51",
+      "updated_at": "2021-11-11 15:47:21",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [
+        {
+          "id": 127,
+          "value": "114"
+        }
+      ],
+      "file": [
+        "/storage/resource/templates/base/product/empty.png"
+      ],
+      "product_custom_field_value": [
+        {
+          "id": 3313,
+          "product_id": 3256,
+          "product_custom_field_id": 127,
+          "value": "114",
+          "created_at": "2021-11-11 15:46:51",
+          "updated_at": "2021-11-11 15:46:51",
+          "field": {
+            "id": 127,
+            "name": "Категория",
+            "type": "category",
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46",
+            "account_id": 39,
+            "position_number": 1,
+            "show": 0,
+            "system": 1,
+            "enum_values": [
+              {
+                "id": 114,
+                "product_custom_field_id": 127,
+                "value": "Общая",
+                "index": 0,
+                "created_at": "2019-05-23 14:27:46",
+                "updated_at": "2019-05-23 14:27:46"
+              },
+              {
+                "id": 154,
+                "product_custom_field_id": 127,
+                "value": "test",
+                "index": 1,
+                "created_at": "2019-06-26 11:02:59",
+                "updated_at": "2019-06-26 11:02:59"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 114,
+            "product_custom_field_id": 127,
+            "value": "Общая",
+            "index": 0,
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46"
+          }
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 3266,
       "name": "Windows",
       "article": "12-12",
       "description": "Какое-то основное описание товара Windows",
       "cost": "5000.00",
-      "prime_cost": "0.00",
+      "prime_cost": null,
       "removed": null,
-      "created_at": "2021-06-07 14:25:53",
-      "updated_at": "2021-11-15 15:32:54",
-      "account_id": 79279,
+      "created_at": "2021-11-23 14:20:23",
+      "updated_at": "2021-11-23 14:20:23",
+      "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [
-        {
-          "id": 26966,
-          "value": "28391"
-        },
-        {
-          "id": 30759,
-          "value": "1"
-        },
-        {
-          "id": 30760,
-          "value": "32618"
-        },
-        {
-          "id": 30761,
-          "value": "12345"
-        }
-      ],
+      "dopfields": [],
       "file": [
-        "/storage/kp95202606/fd44cb90f19f9f7e3f221a4a94a72d66.png"
+        "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [
-        {
-          "id": 723249,
-          "product_id": 546659,
-          "product_custom_field_id": 26966,
-          "value": "28391",
-          "created_at": "2021-06-07 14:25:53",
-          "updated_at": "2021-06-07 14:25:53",
-          "field": {
-            "id": 26966,
-            "name": "Категория",
-            "type": "category",
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 0,
-            "system": 1,
-            "enum_values": [
-              {
-                "id": 28391,
-                "product_custom_field_id": 26966,
-                "value": "Общая",
-                "index": 0,
-                "created_at": "2021-04-13 10:52:42",
-                "updated_at": "2021-04-13 10:52:42"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 28391,
-            "product_custom_field_id": 26966,
-            "value": "Общая",
-            "index": 0,
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42"
-          }
-        },
-        {
-          "id": 765248,
-          "product_id": 546659,
-          "product_custom_field_id": 30759,
-          "value": "1",
-          "created_at": "2021-11-15 15:28:53",
-          "updated_at": "2021-11-15 15:28:53",
-          "field": {
-            "id": 30759,
-            "name": "Наличие",
-            "type": "flag",
-            "created_at": "2021-11-15 15:25:22",
-            "updated_at": "2021-11-15 15:25:22",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 1,
-            "system": 0,
-            "enum_values": []
-          },
-          "field_enum_value": null
-        },
-        {
-          "id": 765249,
-          "product_id": 546659,
-          "product_custom_field_id": 30760,
-          "value": "32618",
-          "created_at": "2021-11-15 15:28:53",
-          "updated_at": "2021-11-15 15:28:53",
-          "field": {
-            "id": 30760,
-            "name": "Номер размера",
-            "type": "select",
-            "created_at": "2021-11-15 15:26:45",
-            "updated_at": "2021-11-15 15:26:45",
-            "account_id": 79279,
-            "position_number": 2,
-            "show": 0,
-            "system": 0,
-            "enum_values": [
-              {
-                "id": 32617,
-                "product_custom_field_id": 30760,
-                "value": "40",
-                "index": 0,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32618,
-                "product_custom_field_id": 30760,
-                "value": "41",
-                "index": 1,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32619,
-                "product_custom_field_id": 30760,
-                "value": "42",
-                "index": 2,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32620,
-                "product_custom_field_id": 30760,
-                "value": "43",
-                "index": 3,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32621,
-                "product_custom_field_id": 30760,
-                "value": "44",
-                "index": 4,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 32618,
-            "product_custom_field_id": 30760,
-            "value": "41",
-            "index": 1,
-            "created_at": "2021-11-15 15:26:45",
-            "updated_at": "2021-11-15 15:26:45"
-          }
-        },
-        {
-          "id": 765250,
-          "product_id": 546659,
-          "product_custom_field_id": 30761,
-          "value": "12345",
-          "created_at": "2021-11-15 15:28:53",
-          "updated_at": "2021-11-15 15:28:53",
-          "field": {
-            "id": 30761,
-            "name": "Доп.поле какого-то числа",
-            "type": "number",
-            "created_at": "2021-11-15 15:27:13",
-            "updated_at": "2021-11-15 15:27:13",
-            "account_id": 79279,
-            "position_number": 3,
-            "show": 0,
-            "system": 0,
-            "enum_values": []
-          },
-          "field_enum_value": null
-        }
-      ],
-      "files": [
-        {
-          "id": 86899,
-          "product_id": 546659,
-          "file_id": 211063,
-          "created_at": "2021-06-07 14:25:53",
-          "updated_at": "2021-11-15 15:28:53",
-          "src": "/storage/kp95202606/fd44cb90f19f9f7e3f221a4a94a72d66.png",
-          "file_relation": {
-            "id": 211063,
-            "name": "Без названия",
-            "file": "fd44cb90f19f9f7e3f221a4a94a72d66.png",
-            "path": "public/kp95202606/Товары",
-            "cropped": 1,
-            "created_at": "2021-10-12 11:07:57",
-            "updated_at": "2021-10-12 11:08:05",
-            "account_id": 79279
-          }
-        }
-      ]
+      "product_custom_field_value": [],
+      "files": []
     },
     {
-      "id": 546660,
+      "id": 3267,
       "name": "Ubuntu Server",
       "article": "13-13",
       "description": "Основное поле описания товара Ubuntu",
       "cost": "11000.00",
-      "prime_cost": "0.00",
+      "prime_cost": null,
       "removed": null,
-      "created_at": "2021-06-07 14:26:12",
-      "updated_at": "2021-11-15 15:32:43",
-      "account_id": 79279,
+      "created_at": "2021-11-23 14:20:23",
+      "updated_at": "2021-11-23 14:20:23",
+      "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [
-        {
-          "id": 26966,
-          "value": "28391"
-        },
-        {
-          "id": 30759,
-          "value": "1"
-        },
-        {
-          "id": 30760,
-          "value": "32619"
-        },
-        {
-          "id": 30761,
-          "value": "54321"
-        }
-      ],
+      "dopfields": [],
       "file": [
-        "/storage/kp95202606/f50b928524c156f96b87b8e00ad6015c.png"
+        "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [
-        {
-          "id": 723250,
-          "product_id": 546660,
-          "product_custom_field_id": 26966,
-          "value": "28391",
-          "created_at": "2021-06-07 14:26:12",
-          "updated_at": "2021-06-07 14:26:12",
-          "field": {
-            "id": 26966,
-            "name": "Категория",
-            "type": "category",
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 0,
-            "system": 1,
-            "enum_values": [
-              {
-                "id": 28391,
-                "product_custom_field_id": 26966,
-                "value": "Общая",
-                "index": 0,
-                "created_at": "2021-04-13 10:52:42",
-                "updated_at": "2021-04-13 10:52:42"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 28391,
-            "product_custom_field_id": 26966,
-            "value": "Общая",
-            "index": 0,
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42"
-          }
-        },
-        {
-          "id": 765251,
-          "product_id": 546660,
-          "product_custom_field_id": 30759,
-          "value": "1",
-          "created_at": "2021-11-15 15:32:43",
-          "updated_at": "2021-11-15 15:32:43",
-          "field": {
-            "id": 30759,
-            "name": "Наличие",
-            "type": "flag",
-            "created_at": "2021-11-15 15:25:22",
-            "updated_at": "2021-11-15 15:25:22",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 1,
-            "system": 0,
-            "enum_values": []
-          },
-          "field_enum_value": null
-        },
-        {
-          "id": 765252,
-          "product_id": 546660,
-          "product_custom_field_id": 30760,
-          "value": "32619",
-          "created_at": "2021-11-15 15:32:43",
-          "updated_at": "2021-11-15 15:32:43",
-          "field": {
-            "id": 30760,
-            "name": "Номер размера",
-            "type": "select",
-            "created_at": "2021-11-15 15:26:45",
-            "updated_at": "2021-11-15 15:26:45",
-            "account_id": 79279,
-            "position_number": 2,
-            "show": 0,
-            "system": 0,
-            "enum_values": [
-              {
-                "id": 32617,
-                "product_custom_field_id": 30760,
-                "value": "40",
-                "index": 0,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32618,
-                "product_custom_field_id": 30760,
-                "value": "41",
-                "index": 1,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32619,
-                "product_custom_field_id": 30760,
-                "value": "42",
-                "index": 2,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32620,
-                "product_custom_field_id": 30760,
-                "value": "43",
-                "index": 3,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              },
-              {
-                "id": 32621,
-                "product_custom_field_id": 30760,
-                "value": "44",
-                "index": 4,
-                "created_at": "2021-11-15 15:26:45",
-                "updated_at": "2021-11-15 15:26:45"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 32619,
-            "product_custom_field_id": 30760,
-            "value": "42",
-            "index": 2,
-            "created_at": "2021-11-15 15:26:45",
-            "updated_at": "2021-11-15 15:26:45"
-          }
-        },
-        {
-          "id": 765253,
-          "product_id": 546660,
-          "product_custom_field_id": 30761,
-          "value": "54321",
-          "created_at": "2021-11-15 15:32:43",
-          "updated_at": "2021-11-15 15:32:43",
-          "field": {
-            "id": 30761,
-            "name": "Доп.поле какого-то числа",
-            "type": "number",
-            "created_at": "2021-11-15 15:27:13",
-            "updated_at": "2021-11-15 15:27:13",
-            "account_id": 79279,
-            "position_number": 3,
-            "show": 0,
-            "system": 0,
-            "enum_values": []
-          },
-          "field_enum_value": null
-        }
-      ],
-      "files": [
-        {
-          "id": 86900,
-          "product_id": 546660,
-          "file_id": 211064,
-          "created_at": "2021-06-07 14:26:12",
-          "updated_at": "2021-10-12 11:08:52",
-          "src": "/storage/kp95202606/f50b928524c156f96b87b8e00ad6015c.png",
-          "file_relation": {
-            "id": 211064,
-            "name": "Без названия",
-            "file": "f50b928524c156f96b87b8e00ad6015c.png",
-            "path": "public/kp95202606/Товары",
-            "cropped": 1,
-            "created_at": "2021-10-12 11:08:23",
-            "updated_at": "2021-10-12 11:08:51",
-            "account_id": 79279
-          }
-        }
-      ]
+      "product_custom_field_value": [],
+      "files": []
     },
     {
-      "id": 546661,
+      "id": 3268,
       "name": "Photoshop",
       "article": "14-14",
       "description": "It is very important to note that we did not need to specify the full controller namespace, only the portion of the class name that comes after the App\\Http\\Controllers namespace \"root\".",
       "cost": "18000.00",
-      "prime_cost": "0.00",
+      "prime_cost": null,
       "removed": null,
-      "created_at": "2021-06-07 14:26:36",
-      "updated_at": "2021-10-12 11:11:58",
-      "account_id": 79279,
+      "created_at": "2021-11-23 14:20:23",
+      "updated_at": "2021-11-23 14:20:23",
+      "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [
-        {
-          "id": 26966,
-          "value": "28391"
-        }
-      ],
+      "dopfields": [],
       "file": [
-        "/storage/kp95202606/79ee3c74fa551cb3deb98c59fa888d9a.png"
+        "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [
-        {
-          "id": 723251,
-          "product_id": 546661,
-          "product_custom_field_id": 26966,
-          "value": "28391",
-          "created_at": "2021-06-07 14:26:36",
-          "updated_at": "2021-06-07 14:26:36",
-          "field": {
-            "id": 26966,
-            "name": "Категория",
-            "type": "category",
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 0,
-            "system": 1,
-            "enum_values": [
-              {
-                "id": 28391,
-                "product_custom_field_id": 26966,
-                "value": "Общая",
-                "index": 0,
-                "created_at": "2021-04-13 10:52:42",
-                "updated_at": "2021-04-13 10:52:42"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 28391,
-            "product_custom_field_id": 26966,
-            "value": "Общая",
-            "index": 0,
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42"
-          }
-        }
-      ],
-      "files": [
-        {
-          "id": 86901,
-          "product_id": 546661,
-          "file_id": 211066,
-          "created_at": "2021-06-07 14:26:36",
-          "updated_at": "2021-10-12 11:10:24",
-          "src": "/storage/kp95202606/79ee3c74fa551cb3deb98c59fa888d9a.png",
-          "file_relation": {
-            "id": 211066,
-            "name": "photoshop",
-            "file": "79ee3c74fa551cb3deb98c59fa888d9a.png",
-            "path": "public/kp95202606/Товары",
-            "cropped": 1,
-            "created_at": "2021-10-12 11:10:13",
-            "updated_at": "2021-10-12 11:10:23",
-            "account_id": 79279
-          }
-        }
-      ]
+      "product_custom_field_value": [],
+      "files": []
     },
     {
-      "id": 546662,
+      "id": 3269,
       "name": "3DMax",
       "article": "15-15",
       "description": "На прошедшей недавно виртуальной конференции VB2021 исследователи из компаний Acronis и Search-Lab рассказали о ботнете из роутеров TP-Link.",
       "cost": "23000.00",
       "prime_cost": "0.00",
       "removed": null,
-      "created_at": "2021-06-07 14:27:01",
-      "updated_at": "2021-10-12 11:12:32",
-      "account_id": 79279,
+      "created_at": "2021-11-23 14:20:23",
+      "updated_at": "2021-11-23 14:26:25",
+      "account_id": 39,
       "fake": 0,
       "deleted_at": null,
       "dopfields": [
         {
-          "id": 26966,
-          "value": "28391"
+          "id": 225,
+          "value": "667676767676767676"
+        },
+        {
+          "id": 221,
+          "value": "667676767676767676"
+        },
+        {
+          "id": 224,
+          "value": "667676767676767676"
+        },
+        {
+          "id": 211,
+          "value": "12.11.21"
+        },
+        {
+          "id": 220,
+          "value": "238"
+        },
+        {
+          "id": 226,
+          "value": "242"
+        },
+        {
+          "id": 223,
+          "value": "1"
+        },
+        {
+          "id": 127,
+          "value": "114"
         }
       ],
       "file": [
-        "/storage/kp95202606/4cfc82bc7817db04dfddd83e2fa8c490.png"
+        "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg"
       ],
       "product_custom_field_value": [
         {
-          "id": 723252,
-          "product_id": 546662,
-          "product_custom_field_id": 26966,
-          "value": "28391",
-          "created_at": "2021-06-07 14:27:01",
-          "updated_at": "2021-06-07 14:27:01",
+          "id": 3314,
+          "product_id": 3269,
+          "product_custom_field_id": 225,
+          "value": "667676767676767676",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
           "field": {
-            "id": 26966,
+            "id": 225,
+            "name": "Себестоимость",
+            "type": "number",
+            "created_at": "2021-10-29 13:37:58",
+            "updated_at": "2021-10-29 13:37:58",
+            "account_id": 39,
+            "position_number": 2,
+            "show": 0,
+            "system": 0,
+            "enum_values": []
+          },
+          "field_enum_value": null
+        },
+        {
+          "id": 3315,
+          "product_id": 3269,
+          "product_custom_field_id": 221,
+          "value": "667676767676767676",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
+          "field": {
+            "id": 221,
+            "name": "чис",
+            "type": "number",
+            "created_at": "2019-11-26 15:54:16",
+            "updated_at": "2019-11-26 15:54:16",
+            "account_id": 39,
+            "position_number": 12,
+            "show": 1,
+            "system": 0,
+            "enum_values": []
+          },
+          "field_enum_value": null
+        },
+        {
+          "id": 3316,
+          "product_id": 3269,
+          "product_custom_field_id": 224,
+          "value": "667676767676767676",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
+          "field": {
+            "id": 224,
+            "name": "Мощность",
+            "type": "number",
+            "created_at": "2021-10-27 14:27:58",
+            "updated_at": "2021-10-27 14:27:58",
+            "account_id": 39,
+            "position_number": 4,
+            "show": 1,
+            "system": 0,
+            "enum_values": []
+          },
+          "field_enum_value": null
+        },
+        {
+          "id": 3317,
+          "product_id": 3269,
+          "product_custom_field_id": 211,
+          "value": "12.11.21",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
+          "field": {
+            "id": 211,
+            "name": "test",
+            "type": "text",
+            "created_at": "2019-10-02 11:27:44",
+            "updated_at": "2019-10-02 11:27:44",
+            "account_id": 39,
+            "position_number": 34,
+            "show": 0,
+            "system": 0,
+            "enum_values": []
+          },
+          "field_enum_value": null
+        },
+        {
+          "id": 3318,
+          "product_id": 3269,
+          "product_custom_field_id": 220,
+          "value": "238",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
+          "field": {
+            "id": 220,
+            "name": "список 2",
+            "type": "select",
+            "created_at": "2019-11-20 10:46:01",
+            "updated_at": "2019-11-20 10:46:01",
+            "account_id": 39,
+            "position_number": 323,
+            "show": 1,
+            "system": 0,
+            "enum_values": [
+              {
+                "id": 238,
+                "product_custom_field_id": 220,
+                "value": "ааа",
+                "index": 0,
+                "created_at": "2019-11-20 10:46:01",
+                "updated_at": "2019-11-20 10:46:01"
+              },
+              {
+                "id": 239,
+                "product_custom_field_id": 220,
+                "value": "ббб",
+                "index": 1,
+                "created_at": "2019-11-20 10:46:01",
+                "updated_at": "2019-11-20 10:46:01"
+              },
+              {
+                "id": 240,
+                "product_custom_field_id": 220,
+                "value": "ввв",
+                "index": 2,
+                "created_at": "2019-11-20 10:46:01",
+                "updated_at": "2019-11-20 10:46:01"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 238,
+            "product_custom_field_id": 220,
+            "value": "ааа",
+            "index": 0,
+            "created_at": "2019-11-20 10:46:01",
+            "updated_at": "2019-11-20 10:46:01"
+          }
+        },
+        {
+          "id": 3319,
+          "product_id": 3269,
+          "product_custom_field_id": 226,
+          "value": "242",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
+          "field": {
+            "id": 226,
+            "name": "23232",
+            "type": "select",
+            "created_at": "2021-11-01 14:58:27",
+            "updated_at": "2021-11-01 14:58:27",
+            "account_id": 39,
+            "position_number": 222,
+            "show": 0,
+            "system": 0,
+            "enum_values": [
+              {
+                "id": 241,
+                "product_custom_field_id": 226,
+                "value": "123",
+                "index": 0,
+                "created_at": "2021-11-01 14:58:27",
+                "updated_at": "2021-11-01 14:58:27"
+              },
+              {
+                "id": 242,
+                "product_custom_field_id": 226,
+                "value": "2323",
+                "index": 1,
+                "created_at": "2021-11-01 14:58:27",
+                "updated_at": "2021-11-01 14:58:27"
+              },
+              {
+                "id": 243,
+                "product_custom_field_id": 226,
+                "value": "2323",
+                "index": 2,
+                "created_at": "2021-11-01 14:58:27",
+                "updated_at": "2021-11-01 14:58:27"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 242,
+            "product_custom_field_id": 226,
+            "value": "2323",
+            "index": 1,
+            "created_at": "2021-11-01 14:58:27",
+            "updated_at": "2021-11-01 14:58:27"
+          }
+        },
+        {
+          "id": 3320,
+          "product_id": 3269,
+          "product_custom_field_id": 223,
+          "value": "1",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
+          "field": {
+            "id": 223,
+            "name": "впропаропаро",
+            "type": "flag",
+            "created_at": "2019-12-02 11:40:58",
+            "updated_at": "2019-12-02 11:40:58",
+            "account_id": 39,
+            "position_number": 5675467,
+            "show": 1,
+            "system": 0,
+            "enum_values": []
+          },
+          "field_enum_value": null
+        },
+        {
+          "id": 3321,
+          "product_id": 3269,
+          "product_custom_field_id": 127,
+          "value": "114",
+          "created_at": "2021-11-23 14:25:44",
+          "updated_at": "2021-11-23 14:25:44",
+          "field": {
+            "id": 127,
             "name": "Категория",
             "type": "category",
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42",
-            "account_id": 79279,
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46",
+            "account_id": 39,
             "position_number": 1,
             "show": 0,
             "system": 1,
             "enum_values": [
               {
-                "id": 28391,
-                "product_custom_field_id": 26966,
+                "id": 114,
+                "product_custom_field_id": 127,
                 "value": "Общая",
                 "index": 0,
-                "created_at": "2021-04-13 10:52:42",
-                "updated_at": "2021-04-13 10:52:42"
+                "created_at": "2019-05-23 14:27:46",
+                "updated_at": "2019-05-23 14:27:46"
+              },
+              {
+                "id": 154,
+                "product_custom_field_id": 127,
+                "value": "test",
+                "index": 1,
+                "created_at": "2019-06-26 11:02:59",
+                "updated_at": "2019-06-26 11:02:59"
               }
             ]
           },
           "field_enum_value": {
-            "id": 28391,
-            "product_custom_field_id": 26966,
+            "id": 114,
+            "product_custom_field_id": 127,
             "value": "Общая",
             "index": 0,
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42"
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46"
           }
         }
       ],
       "files": [
         {
-          "id": 86902,
-          "product_id": 546662,
-          "file_id": 211065,
-          "created_at": "2021-06-07 14:27:01",
-          "updated_at": "2021-10-12 11:09:27",
-          "src": "/storage/kp95202606/4cfc82bc7817db04dfddd83e2fa8c490.png",
+          "id": 349,
+          "product_id": 3269,
+          "file_id": 661,
+          "created_at": "2021-11-23 14:23:53",
+          "updated_at": "2021-11-23 14:23:53",
+          "src": "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg",
           "file_relation": {
-            "id": 211065,
-            "name": "3-DS-Max-Logo",
-            "file": "4cfc82bc7817db04dfddd83e2fa8c490.png",
-            "path": "public/kp95202606/Товары",
+            "id": 661,
+            "name": "c8ae38fd8774bdffb36020a9ed9bc041",
+            "file": "c8ae38fd8774bdffb36020a9ed9bc041.jpg",
+            "path": "public/dev-blablatest/Товары",
             "cropped": 1,
-            "created_at": "2021-10-12 11:09:06",
-            "updated_at": "2021-10-12 11:09:25",
-            "account_id": 79279
+            "created_at": "2021-11-11 15:47:20",
+            "updated_at": "2021-11-11 15:47:20",
+            "account_id": 39
           }
         }
       ]
     },
     {
-      "id": 553579,
+      "id": 3270,
       "name": "Windows 11",
       "article": "11-123",
       "description": "Подборка свежих новостей и материалов из мира PHP. Вышел первый релиз-кандидат PHP 8.1, в Packagist обнаружено два зловредных пакета, а репозиторий популярного пакета AliceBundle пропал с GitHub.",
       "cost": "7000.00",
-      "prime_cost": "0.00",
+      "prime_cost": null,
       "removed": null,
-      "created_at": "2021-07-12 13:36:09",
-      "updated_at": "2021-10-12 11:11:34",
-      "account_id": 79279,
+      "created_at": "2021-11-23 14:20:23",
+      "updated_at": "2021-11-23 14:20:23",
+      "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [
-        {
-          "id": 26966,
-          "value": "28391"
-        }
-      ],
+      "dopfields": [],
       "file": [
-        "/storage/kp95202606/fd44cb90f19f9f7e3f221a4a94a72d66.png"
+        "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [
-        {
-          "id": 732456,
-          "product_id": 553579,
-          "product_custom_field_id": 26966,
-          "value": "28391",
-          "created_at": "2021-07-12 13:36:09",
-          "updated_at": "2021-07-12 13:36:09",
-          "field": {
-            "id": 26966,
-            "name": "Категория",
-            "type": "category",
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 0,
-            "system": 1,
-            "enum_values": [
-              {
-                "id": 28391,
-                "product_custom_field_id": 26966,
-                "value": "Общая",
-                "index": 0,
-                "created_at": "2021-04-13 10:52:42",
-                "updated_at": "2021-04-13 10:52:42"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 28391,
-            "product_custom_field_id": 26966,
-            "value": "Общая",
-            "index": 0,
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42"
-          }
-        }
-      ],
-      "files": [
-        {
-          "id": 90212,
-          "product_id": 553579,
-          "file_id": 211063,
-          "created_at": "2021-07-12 13:36:09",
-          "updated_at": "2021-10-12 11:08:07",
-          "src": "/storage/kp95202606/fd44cb90f19f9f7e3f221a4a94a72d66.png",
-          "file_relation": {
-            "id": 211063,
-            "name": "Без названия",
-            "file": "fd44cb90f19f9f7e3f221a4a94a72d66.png",
-            "path": "public/kp95202606/Товары",
-            "cropped": 1,
-            "created_at": "2021-10-12 11:07:57",
-            "updated_at": "2021-10-12 11:08:05",
-            "account_id": 79279
-          }
-        }
-      ]
+      "product_custom_field_value": [],
+      "files": []
     },
     {
-      "id": 580588,
+      "id": 3271,
       "name": "Аватар",
       "article": "12-12-12-12",
-      "description": null,
+      "description": "",
       "cost": "5000.00",
-      "prime_cost": "0.00",
+      "prime_cost": null,
       "removed": null,
-      "created_at": "2021-10-12 11:06:09",
-      "updated_at": "2021-10-12 11:06:09",
-      "account_id": 79279,
+      "created_at": "2021-11-23 14:20:23",
+      "updated_at": "2021-11-23 14:20:23",
+      "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [
-        {
-          "id": 26966,
-          "value": "28391"
-        }
-      ],
+      "dopfields": [],
       "file": [
-        "/storage/kp95202606/d0b41e8bdb7d4f02b198f734b80ad455.png"
+        "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [
-        {
-          "id": 762496,
-          "product_id": 580588,
-          "product_custom_field_id": 26966,
-          "value": "28391",
-          "created_at": "2021-10-12 11:06:09",
-          "updated_at": "2021-10-12 11:06:09",
-          "field": {
-            "id": 26966,
-            "name": "Категория",
-            "type": "category",
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 0,
-            "system": 1,
-            "enum_values": [
-              {
-                "id": 28391,
-                "product_custom_field_id": 26966,
-                "value": "Общая",
-                "index": 0,
-                "created_at": "2021-04-13 10:52:42",
-                "updated_at": "2021-04-13 10:52:42"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 28391,
-            "product_custom_field_id": 26966,
-            "value": "Общая",
-            "index": 0,
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42"
-          }
-        }
-      ],
-      "files": [
-        {
-          "id": 103649,
-          "product_id": 580588,
-          "file_id": 211062,
-          "created_at": "2021-10-12 11:06:09",
-          "updated_at": "2021-10-12 11:06:09",
-          "src": "/storage/kp95202606/d0b41e8bdb7d4f02b198f734b80ad455.png",
-          "file_relation": {
-            "id": 211062,
-            "name": "1523898769_1",
-            "file": "d0b41e8bdb7d4f02b198f734b80ad455.png",
-            "path": "public/kp95202606/Товары",
-            "cropped": 1,
-            "created_at": "2021-10-12 11:05:36",
-            "updated_at": "2021-10-12 11:05:44",
-            "account_id": 79279
-          }
-        }
-      ]
+      "product_custom_field_value": [],
+      "files": []
     },
     {
-      "id": 582155,
+      "id": 3272,
       "name": "SolidWorks",
       "article": "solid",
       "description": "Description of SolidWorks",
       "cost": "77500.00",
-      "prime_cost": "0.00",
+      "prime_cost": null,
       "removed": null,
-      "created_at": "2021-10-28 10:52:04",
-      "updated_at": "2021-10-28 10:52:04",
-      "account_id": 79279,
+      "created_at": "2021-11-23 14:20:23",
+      "updated_at": "2021-11-23 14:20:23",
+      "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [
-        {
-          "id": 26966,
-          "value": "28391"
-        }
-      ],
+      "dopfields": [],
       "file": [
-        "/storage/kp95202606/3a5ae704f058821609df0aaa191b20fe.png"
+        "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [
-        {
-          "id": 763208,
-          "product_id": 582155,
-          "product_custom_field_id": 26966,
-          "value": "28391",
-          "created_at": "2021-10-28 10:52:04",
-          "updated_at": "2021-10-28 10:52:04",
-          "field": {
-            "id": 26966,
-            "name": "Категория",
-            "type": "category",
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42",
-            "account_id": 79279,
-            "position_number": 1,
-            "show": 0,
-            "system": 1,
-            "enum_values": [
-              {
-                "id": 28391,
-                "product_custom_field_id": 26966,
-                "value": "Общая",
-                "index": 0,
-                "created_at": "2021-04-13 10:52:42",
-                "updated_at": "2021-04-13 10:52:42"
-              }
-            ]
-          },
-          "field_enum_value": {
-            "id": 28391,
-            "product_custom_field_id": 26966,
-            "value": "Общая",
-            "index": 0,
-            "created_at": "2021-04-13 10:52:42",
-            "updated_at": "2021-04-13 10:52:42"
-          }
-        }
-      ],
-      "files": [
-        {
-          "id": 105105,
-          "product_id": 582155,
-          "file_id": 213014,
-          "created_at": "2021-10-28 10:52:04",
-          "updated_at": "2021-10-28 10:52:04",
-          "src": "/storage/kp95202606/3a5ae704f058821609df0aaa191b20fe.png",
-          "file_relation": {
-            "id": 213014,
-            "name": "574-5744576_solidworks-logo-clipart-banner-library-logo-solidworks-solidwork",
-            "file": "3a5ae704f058821609df0aaa191b20fe.png",
-            "path": "public/kp95202606/Товары",
-            "cropped": 1,
-            "created_at": "2021-10-28 10:51:41",
-            "updated_at": "2021-10-28 10:52:01",
-            "account_id": 79279
-          }
-        }
-      ]
+      "product_custom_field_value": [],
+      "files": []
     }
   ],
   "customField": [
     {
-      "id": 26966,
+      "id": 127,
       "name": "Категория",
       "type": "category",
-      "created_at": "2021-04-13 10:52:42",
-      "updated_at": "2021-04-13 10:52:42",
-      "account_id": 79279,
+      "created_at": "2019-05-23 14:27:46",
+      "updated_at": "2019-05-23 14:27:46",
+      "account_id": 39,
       "position_number": 1,
       "show": 0,
       "system": 1,
       "enum_values": [
         {
-          "id": 28391,
-          "product_custom_field_id": 26966,
+          "id": 114,
+          "product_custom_field_id": 127,
           "value": "Общая",
           "index": 0,
-          "created_at": "2021-04-13 10:52:42",
-          "updated_at": "2021-04-13 10:52:42"
+          "created_at": "2019-05-23 14:27:46",
+          "updated_at": "2019-05-23 14:27:46"
+        },
+        {
+          "id": 154,
+          "product_custom_field_id": 127,
+          "value": "test",
+          "index": 1,
+          "created_at": "2019-06-26 11:02:59",
+          "updated_at": "2019-06-26 11:02:59"
         }
       ]
     },
     {
-      "id": 30759,
-      "name": "Наличие",
-      "type": "flag",
-      "created_at": "2021-11-15 15:25:22",
-      "updated_at": "2021-11-15 15:25:22",
-      "account_id": 79279,
-      "position_number": 1,
+      "id": 225,
+      "name": "Себестоимость",
+      "type": "number",
+      "created_at": "2021-10-29 13:37:58",
+      "updated_at": "2021-10-29 13:37:58",
+      "account_id": 39,
+      "position_number": 2,
+      "show": 0,
+      "system": 0,
+      "enum_values": []
+    },
+    {
+      "id": 224,
+      "name": "Мощность",
+      "type": "number",
+      "created_at": "2021-10-27 14:27:58",
+      "updated_at": "2021-10-27 14:27:58",
+      "account_id": 39,
+      "position_number": 4,
       "show": 1,
       "system": 0,
       "enum_values": []
     },
     {
-      "id": 30760,
-      "name": "Номер размера",
+      "id": 221,
+      "name": "чис",
+      "type": "number",
+      "created_at": "2019-11-26 15:54:16",
+      "updated_at": "2019-11-26 15:54:16",
+      "account_id": 39,
+      "position_number": 12,
+      "show": 1,
+      "system": 0,
+      "enum_values": []
+    },
+    {
+      "id": 211,
+      "name": "test",
+      "type": "text",
+      "created_at": "2019-10-02 11:27:44",
+      "updated_at": "2019-10-02 11:27:44",
+      "account_id": 39,
+      "position_number": 34,
+      "show": 0,
+      "system": 0,
+      "enum_values": []
+    },
+    {
+      "id": 226,
+      "name": "23232",
       "type": "select",
-      "created_at": "2021-11-15 15:26:45",
-      "updated_at": "2021-11-15 15:26:45",
-      "account_id": 79279,
-      "position_number": 2,
+      "created_at": "2021-11-01 14:58:27",
+      "updated_at": "2021-11-01 14:58:27",
+      "account_id": 39,
+      "position_number": 222,
       "show": 0,
       "system": 0,
       "enum_values": [
         {
-          "id": 32617,
-          "product_custom_field_id": 30760,
-          "value": "40",
+          "id": 241,
+          "product_custom_field_id": 226,
+          "value": "123",
           "index": 0,
-          "created_at": "2021-11-15 15:26:45",
-          "updated_at": "2021-11-15 15:26:45"
+          "created_at": "2021-11-01 14:58:27",
+          "updated_at": "2021-11-01 14:58:27"
         },
         {
-          "id": 32618,
-          "product_custom_field_id": 30760,
-          "value": "41",
+          "id": 242,
+          "product_custom_field_id": 226,
+          "value": "2323",
           "index": 1,
-          "created_at": "2021-11-15 15:26:45",
-          "updated_at": "2021-11-15 15:26:45"
+          "created_at": "2021-11-01 14:58:27",
+          "updated_at": "2021-11-01 14:58:27"
         },
         {
-          "id": 32619,
-          "product_custom_field_id": 30760,
-          "value": "42",
+          "id": 243,
+          "product_custom_field_id": 226,
+          "value": "2323",
           "index": 2,
-          "created_at": "2021-11-15 15:26:45",
-          "updated_at": "2021-11-15 15:26:45"
-        },
-        {
-          "id": 32620,
-          "product_custom_field_id": 30760,
-          "value": "43",
-          "index": 3,
-          "created_at": "2021-11-15 15:26:45",
-          "updated_at": "2021-11-15 15:26:45"
-        },
-        {
-          "id": 32621,
-          "product_custom_field_id": 30760,
-          "value": "44",
-          "index": 4,
-          "created_at": "2021-11-15 15:26:45",
-          "updated_at": "2021-11-15 15:26:45"
+          "created_at": "2021-11-01 14:58:27",
+          "updated_at": "2021-11-01 14:58:27"
         }
       ]
     },
     {
-      "id": 30761,
-      "name": "Доп.поле какого-то числа",
-      "type": "number",
-      "created_at": "2021-11-15 15:27:13",
-      "updated_at": "2021-11-15 15:27:13",
-      "account_id": 79279,
-      "position_number": 3,
-      "show": 0,
+      "id": 220,
+      "name": "список 2",
+      "type": "select",
+      "created_at": "2019-11-20 10:46:01",
+      "updated_at": "2019-11-20 10:46:01",
+      "account_id": 39,
+      "position_number": 323,
+      "show": 1,
+      "system": 0,
+      "enum_values": [
+        {
+          "id": 238,
+          "product_custom_field_id": 220,
+          "value": "ааа",
+          "index": 0,
+          "created_at": "2019-11-20 10:46:01",
+          "updated_at": "2019-11-20 10:46:01"
+        },
+        {
+          "id": 239,
+          "product_custom_field_id": 220,
+          "value": "ббб",
+          "index": 1,
+          "created_at": "2019-11-20 10:46:01",
+          "updated_at": "2019-11-20 10:46:01"
+        },
+        {
+          "id": 240,
+          "product_custom_field_id": 220,
+          "value": "ввв",
+          "index": 2,
+          "created_at": "2019-11-20 10:46:01",
+          "updated_at": "2019-11-20 10:46:01"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "name": "впропаропаро",
+      "type": "flag",
+      "created_at": "2019-12-02 11:40:58",
+      "updated_at": "2019-12-02 11:40:58",
+      "account_id": 39,
+      "position_number": 5675467,
+      "show": 1,
       "system": 0,
       "enum_values": []
     }
   ],
   "baseCurrency": {
-    "id": 542820,
+    "id": 282,
     "name": "Российский рубль",
     "code": 643,
-    "sync": 0,
+    "sync": 1,
     "rate": "1.00",
     "sign": null,
     "basic": 1,
-    "created_at": "2021-04-13 10:52:39",
-    "updated_at": "2021-04-13 10:52:39",
-    "account_id": 79279,
+    "created_at": "2019-03-11 13:35:45",
+    "updated_at": "2021-05-27 13:52:16",
+    "account_id": 39,
     "syncRate": "1.0000",
     "charCode": "RUB"
   },
@@ -948,7 +983,7 @@
       "name": "Фото",
       "description": "file",
       "visible": 1,
-      "position": 0,
+      "position": 3,
       "column_id": 1,
       "custom_fields_id": null
     },
@@ -956,7 +991,7 @@
       "name": "Название",
       "description": "name",
       "visible": 1,
-      "position": 2,
+      "position": 1,
       "column_id": 2,
       "custom_fields_id": null
     },
@@ -964,7 +999,7 @@
       "name": "Цена",
       "description": "cost",
       "visible": 1,
-      "position": 4,
+      "position": 2,
       "column_id": 3,
       "custom_fields_id": null
     },
@@ -972,7 +1007,7 @@
       "name": "Артикул",
       "description": "article",
       "visible": 1,
-      "position": 6,
+      "position": 0,
       "column_id": 4,
       "custom_fields_id": null
     },
@@ -980,7 +1015,7 @@
       "name": "Описание",
       "description": "description",
       "visible": 1,
-      "position": 8,
+      "position": 4,
       "column_id": 5,
       "custom_fields_id": null
     },
@@ -988,33 +1023,65 @@
       "name": "Категория",
       "description": "Категория",
       "visible": 1,
-      "position": 1,
-      "column_id": null,
-      "custom_fields_id": 26966
-    },
-    {
-      "name": "Наличие",
-      "description": "Наличие",
-      "visible": 1,
-      "position": 3,
-      "column_id": null,
-      "custom_fields_id": 30759
-    },
-    {
-      "name": "Номер размера",
-      "description": "Номер размера",
-      "visible": 1,
       "position": 5,
       "column_id": null,
-      "custom_fields_id": 30760
+      "custom_fields_id": 127
     },
     {
-      "name": "Доп.поле какого-то числа",
-      "description": "Доп.поле какого-то числа",
+      "name": "Себестоимость",
+      "description": "Себестоимость",
+      "visible": 1,
+      "position": 2,
+      "column_id": null,
+      "custom_fields_id": 225
+    },
+    {
+      "name": "Мощность",
+      "description": "Мощность",
+      "visible": 1,
+      "position": 4,
+      "column_id": null,
+      "custom_fields_id": 224
+    },
+    {
+      "name": "чис",
+      "description": "чис",
       "visible": 1,
       "position": 7,
       "column_id": null,
-      "custom_fields_id": 30761
+      "custom_fields_id": 221
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "visible": 1,
+      "position": 8,
+      "column_id": null,
+      "custom_fields_id": 211
+    },
+    {
+      "name": "23232",
+      "description": "23232",
+      "visible": 1,
+      "position": 222,
+      "column_id": null,
+      "custom_fields_id": 226
+    },
+    {
+      "name": "список 2",
+      "description": "список 2",
+      "visible": 1,
+      "position": 9,
+      "column_id": null,
+      "custom_fields_id": 220
+    },
+    {
+      "name": "впропаропаро",
+      "description": "впропаропаро",
+      "visible": 1,
+      "position": 6,
+      "column_id": null,
+      "custom_fields_id": 223
     }
   ],
   "translation": {
