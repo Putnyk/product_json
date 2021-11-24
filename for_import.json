@@ -1,20 +1,6 @@
 {  
   "products": [
     {
-      "name": "Стул",
-      "article": "2",
-      "description": "Описание стула",
-      "cost": "200.00",      
-      "account_id": 39,
-      "fake": 0,
-      "dopfields": [],
-      "file": [
-        "/storage/resource/templates/base/product/empty.png"
-      ],
-      "product_custom_field_value": [],
-      "files": []
-    },
-    {
       "id": 3276,
       "name": "Шкаф",
       "article": "3",
