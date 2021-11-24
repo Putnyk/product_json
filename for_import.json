@@ -1,5 +1,25 @@
-{  
+{
   "products": [
+    {
+      "id": 3275,
+      "name": "Стул",
+      "article": "2",
+      "description": "",
+      "cost": "200.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-11-23 14:30:20",
+      "updated_at": "2021-11-23 14:30:20",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
+      "file": [
+        "/storage/resource/templates/base/product/empty.png"
+      ],
+      "product_custom_field_value": [],
+      "files": []
+    },
     {
       "id": 3276,
       "name": "Шкаф",
@@ -80,5 +100,25 @@
       "product_custom_field_value": [],
       "files": []
     },
-  ]
+    {
+      "id": 3284,
+      "name": "SolidWorks",
+      "article": "solid",
+      "description": "Description of SolidWorks",
+      "cost": "77500.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-11-23 14:30:20",
+      "updated_at": "2021-11-23 14:30:20",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
+      "file": [
+        "/storage/resource/templates/base/product/empty.png"
+      ],
+      "product_custom_field_value": [],
+      "files": []
+    }
+  ],
 }
