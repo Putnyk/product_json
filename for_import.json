@@ -414,20 +414,6 @@
       ]
     }
   ],
-  "baseCurrency": {
-    "id": 282,
-    "name": "Российский рубль",
-    "code": 643,
-    "sync": 1,
-    "rate": "1.00",
-    "sign": null,
-    "basic": 1,
-    "created_at": "2019-03-11 13:35:45",
-    "updated_at": "2021-05-27 13:52:16",
-    "account_id": 39,
-    "syncRate": "1.0000",
-    "charCode": "RUB"
-  },
   "tableView": [
     {
       "name": "Фото",
@@ -478,4 +464,11 @@
       "custom_fields_id": 127
     }
   ],
+  "translation": {
+    "product": "Рекомендуемый размер фото 325 х 325 px в png",
+    "employee": "Рекомендуемый размер фото 300 х 300 px в png",
+    "logo": "Рекомендуемый размер фото 340 х 80 px в png",
+    "cover": "Рекомендуемый размер фото 1300 х 300 px в png",
+    "gallery": "Рекомендуемый размер фото 1300 х 867 px в png"
+  }
 }
