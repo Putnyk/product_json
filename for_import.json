@@ -1,10 +1,92 @@
 {
   "products": [
     {
+      "id": 3274,
+      "name": "Стол лого232323",
+      "article": "1",
+      "description": "Удобный стул",
+      "cost": "100.00",
+      "prime_cost": "0.00",
+      "removed": null,
+      "created_at": "2021-11-23 14:30:20",
+      "updated_at": "2021-11-23 14:37:26",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [
+        {
+          "id": 127,
+          "value": "114"
+        }
+      ],
+      "file": [
+        "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg"
+      ],
+      "product_custom_field_value": [
+        {
+          "id": 3322,
+          "product_id": 3274,
+          "product_custom_field_id": 127,
+          "value": "114",
+          "created_at": "2021-11-23 14:33:42",
+          "updated_at": "2021-11-23 14:33:42",
+          "field": {
+            "id": 127,
+            "name": "Категория",
+            "type": "category",
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46",
+            "account_id": 39,
+            "position_number": 1,
+            "show": 0,
+            "system": 1,
+            "enum_values": [
+              {
+                "id": 114,
+                "product_custom_field_id": 127,
+                "value": "Общая",
+                "index": 0,
+                "created_at": "2019-05-23 14:27:46",
+                "updated_at": "2019-05-23 14:27:46"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 114,
+            "product_custom_field_id": 127,
+            "value": "Общая",
+            "index": 0,
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 351,
+          "product_id": 3274,
+          "file_id": 661,
+          "created_at": "2021-11-23 14:33:42",
+          "updated_at": "2021-11-23 14:33:42",
+          "src": "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg",
+          "file_relation": {
+            "id": 661,
+            "name": "c8ae38fd8774bdffb36020a9ed9bc041",
+            "file": "c8ae38fd8774bdffb36020a9ed9bc041.jpg",
+            "path": "public/dev-blablatest/Товары",
+            "cropped": 1,
+            "created_at": "2021-11-11 15:47:20",
+            "updated_at": "2021-11-11 15:47:20",
+            "account_id": 39
+          }
+        }
+      ]
+    },
+    {
       "id": 3275,
       "name": "Стул",
       "article": "2",
-      "description": "Описание стула",
+      "description": "",
       "cost": "200.00",
       "prime_cost": null,
       "removed": null,
@@ -44,7 +126,7 @@
       "id": 3277,
       "name": "Диван",
       "article": "4",
-      "description": "Описание дивана",
+      "description": "",
       "cost": "400.00",
       "prime_cost": null,
       "removed": null,
@@ -99,6 +181,186 @@
       ],
       "product_custom_field_value": [],
       "files": []
+    },
+    {
+      "id": 3280,
+      "name": "Photoshop",
+      "article": "14-14",
+      "description": "It is very important to note that we did not need to specify the full controller namespace, only the portion of the class name that comes after the App\\Http\\Controllers namespace \"root\".",
+      "cost": "18000.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-11-23 14:30:20",
+      "updated_at": "2021-11-23 14:30:20",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
+      "file": [
+        "/storage/resource/templates/base/product/empty.png"
+      ],
+      "product_custom_field_value": [],
+      "files": []
+    },
+    {
+      "id": 3281,
+      "name": "3DMax",
+      "article": "15-15",
+      "description": "На прошедшей недавно виртуальной конференции VB2021 исследователи из компаний Acronis и Search-Lab рассказали о ботнете из роутеров TP-Link.",
+      "cost": "23000.00",
+      "prime_cost": "0.00",
+      "removed": null,
+      "created_at": "2021-11-23 14:30:20",
+      "updated_at": "2021-11-23 14:33:57",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
+      "file": [
+        "/storage/dev-blablatest/d14eeb7ff65afbce86bb7354cc67cc17.png"
+      ],
+      "product_custom_field_value": [],
+      "files": [
+        {
+          "id": 353,
+          "product_id": 3281,
+          "file_id": 634,
+          "created_at": "2021-11-23 14:33:57",
+          "updated_at": "2021-11-23 14:33:57",
+          "src": "/storage/dev-blablatest/d14eeb7ff65afbce86bb7354cc67cc17.png",
+          "file_relation": {
+            "id": 634,
+            "name": "nike",
+            "file": "d14eeb7ff65afbce86bb7354cc67cc17.png",
+            "path": "public/dev-blablatest/Товары",
+            "cropped": 1,
+            "created_at": "2021-10-28 14:27:13",
+            "updated_at": "2021-10-28 14:27:22",
+            "account_id": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": 3282,
+      "name": "Windows 112323",
+      "article": "11-123",
+      "description": "Подборка свежих новостей и материалов из мира PHP. Вышел первый релиз-кандидат PHP 8.1, в Packagist обнаружено два зловредных пакета, а репозиторий популярного пакета AliceBundle пропал с GitHub.",
+      "cost": "7000.00",
+      "prime_cost": "0.00",
+      "removed": null,
+      "created_at": "2021-11-23 14:30:20",
+      "updated_at": "2021-11-23 14:37:17",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
+      "file": [
+        "/storage/dev-blablatest/2117cbc9fc43847928282563e9d6c3c8.png"
+      ],
+      "product_custom_field_value": [],
+      "files": [
+        {
+          "id": 352,
+          "product_id": 3282,
+          "file_id": 655,
+          "created_at": "2021-11-23 14:33:49",
+          "updated_at": "2021-11-23 14:33:49",
+          "src": "/storage/dev-blablatest/2117cbc9fc43847928282563e9d6c3c8.png",
+          "file_relation": {
+            "id": 655,
+            "name": "Без названия",
+            "file": "2117cbc9fc43847928282563e9d6c3c8.png",
+            "path": "public/dev-blablatest/Товары",
+            "cropped": 1,
+            "created_at": "2021-11-11 15:13:09",
+            "updated_at": "2021-11-11 15:13:16",
+            "account_id": 39
+          }
+        }
+      ]
+    },
+    {
+      "id": 3283,
+      "name": "Аватар232323",
+      "article": "12-12-12-12",
+      "description": null,
+      "cost": "5000.00",
+      "prime_cost": "0.00",
+      "removed": null,
+      "created_at": "2021-11-23 14:30:20",
+      "updated_at": "2021-11-23 14:37:21",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [
+        {
+          "id": 127,
+          "value": "114"
+        }
+      ],
+      "file": [
+        "/storage/dev-blablatest/45c9ff691de88da507f09abfb3145bb2.png"
+      ],
+      "product_custom_field_value": [
+        {
+          "id": 3327,
+          "product_id": 3283,
+          "product_custom_field_id": 127,
+          "value": "114",
+          "created_at": "2021-11-23 14:35:02",
+          "updated_at": "2021-11-23 14:35:02",
+          "field": {
+            "id": 127,
+            "name": "Категория",
+            "type": "category",
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46",
+            "account_id": 39,
+            "position_number": 1,
+            "show": 0,
+            "system": 1,
+            "enum_values": [
+              {
+                "id": 114,
+                "product_custom_field_id": 127,
+                "value": "Общая",
+                "index": 0,
+                "created_at": "2019-05-23 14:27:46",
+                "updated_at": "2019-05-23 14:27:46"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 114,
+            "product_custom_field_id": 127,
+            "value": "Общая",
+            "index": 0,
+            "created_at": "2019-05-23 14:27:46",
+            "updated_at": "2019-05-23 14:27:46"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 350,
+          "product_id": 3283,
+          "file_id": 635,
+          "created_at": "2021-11-23 14:33:10",
+          "updated_at": "2021-11-23 14:33:10",
+          "src": "/storage/dev-blablatest/45c9ff691de88da507f09abfb3145bb2.png",
+          "file_relation": {
+            "id": 635,
+            "name": "1622111358579",
+            "file": "45c9ff691de88da507f09abfb3145bb2.png",
+            "path": "public/dev-blablatest/Товары",
+            "cropped": 1,
+            "created_at": "2021-10-28 14:29:34",
+            "updated_at": "2021-10-28 14:29:37",
+            "account_id": 39
+          }
+        }
+      ]
     },
     {
       "id": 3284,
