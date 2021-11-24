@@ -391,4 +391,91 @@
       "files": []
     }
   ],
+  "customField": [
+    {
+      "id": 127,
+      "name": "Категория",
+      "type": "category",
+      "created_at": "2019-05-23 14:27:46",
+      "updated_at": "2019-05-23 14:27:46",
+      "account_id": 39,
+      "position_number": 1,
+      "show": 0,
+      "system": 1,
+      "enum_values": [
+        {
+          "id": 114,
+          "product_custom_field_id": 127,
+          "value": "Общая",
+          "index": 0,
+          "created_at": "2019-05-23 14:27:46",
+          "updated_at": "2019-05-23 14:27:46"
+        }
+      ]
+    }
+  ],
+  "baseCurrency": {
+    "id": 282,
+    "name": "Российский рубль",
+    "code": 643,
+    "sync": 1,
+    "rate": "1.00",
+    "sign": null,
+    "basic": 1,
+    "created_at": "2019-03-11 13:35:45",
+    "updated_at": "2021-05-27 13:52:16",
+    "account_id": 39,
+    "syncRate": "1.0000",
+    "charCode": "RUB"
+  },
+  "tableView": [
+    {
+      "name": "Фото",
+      "description": "file",
+      "visible": 1,
+      "position": 3,
+      "column_id": 1,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Название",
+      "description": "name",
+      "visible": 1,
+      "position": 1,
+      "column_id": 2,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Цена",
+      "description": "cost",
+      "visible": 1,
+      "position": 2,
+      "column_id": 3,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Артикул",
+      "description": "article",
+      "visible": 1,
+      "position": 0,
+      "column_id": 4,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Описание",
+      "description": "description",
+      "visible": 1,
+      "position": 4,
+      "column_id": 5,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Категория",
+      "description": "Категория",
+      "visible": 1,
+      "position": 5,
+      "column_id": null,
+      "custom_fields_id": 127
+    }
+  ],
 }
