@@ -80,49 +80,6 @@
       "product_custom_field_value": [],
       "files": []
     },
-    {
-      "id": 3284,
-      "name": "SolidWorks",
-      "article": "solid",
-      "description": "Description of SolidWorks",
-      "cost": "77500.00",
-      "prime_cost": null,
-      "removed": null,
-      "created_at": "2021-11-23 14:30:20",
-      "updated_at": "2021-11-23 14:30:20",
-      "account_id": 39,
-      "fake": 0,
-      "deleted_at": null,
-      "dopfields": [],
-      "file": [
-        "/storage/resource/templates/base/product/empty.png"
-      ],
-      "product_custom_field_value": [],
-      "files": []
-    }
-  ],
-  "customField": [
-    {
-      "id": 127,
-      "name": "Категория",
-      "type": "category",
-      "created_at": "2019-05-23 14:27:46",
-      "updated_at": "2019-05-23 14:27:46",
-      "account_id": 39,
-      "position_number": 1,
-      "show": 0,
-      "system": 1,
-      "enum_values": [
-        {
-          "id": 114,
-          "product_custom_field_id": 127,
-          "value": "Общая",
-          "index": 0,
-          "created_at": "2019-05-23 14:27:46",
-          "updated_at": "2019-05-23 14:27:46"
-        }
-      ]
-    }
   ],
   "baseCurrency": {
     "id": 282,
