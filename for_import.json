@@ -6,13 +6,9 @@
       "article": "2",
       "description": "",
       "cost": "1000",
-      "prime_cost": null,
-      "removed": null,
-      "created_at": "2021-11-23 14:30:20",
-      "updated_at": "2021-11-23 14:30:20",
+      "prime_cost": 105,
       "account_id": 39,
       "fake": 0,
-      "deleted_at": null,
       "dopfields": [],
       "file": [
         "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/2019-01_BrandRefresh_slack-brand-refresh_header-1.png"
@@ -27,12 +23,8 @@
       "description": "Цвет венга",
       "cost": "300.00",
       "prime_cost": null,
-      "removed": null,
-      "created_at": "2021-11-23 14:30:20",
-      "updated_at": "2021-11-23 14:30:20",
       "account_id": 39,
       "fake": 0,
-      "deleted_at": null,
       "dopfields": [],
       "file": [
         "/storage/resource/templates/base/product/empty.png"
@@ -46,13 +38,9 @@
       "article": "4",
       "description": "",
       "cost": "400.00",
-      "prime_cost": null,
-      "removed": null,
-      "created_at": "2021-11-23 14:30:20",
-      "updated_at": "2021-11-23 14:30:20",
+      "prime_cost": null,      
       "account_id": 39,
       "fake": 0,
-      "deleted_at": null,
       "dopfields": [],
       "file": [
         "/storage/resource/templates/base/product/empty.png"
@@ -86,13 +74,9 @@
       "article": "13-13",
       "description": "Основное поле описания товара Ubuntu",
       "cost": "11000.00",
-      "prime_cost": null,
-      "removed": null,
-      "created_at": "2021-11-23 14:30:20",
-      "updated_at": "2021-11-23 14:30:20",
+      "prime_cost": null,      
       "account_id": 39,
       "fake": 0,
-      "deleted_at": null,
       "dopfields": [],
       "file": [
         "/storage/resource/templates/base/product/empty.png"
