@@ -2,10 +2,10 @@
   "products": [
     {
       "id": 3275,
-      "name": "Стул232",
+      "name": "Стул2323",
       "article": "2",
       "description": "",
-      "cost": "",
+      "cost": "1000",
       "prime_cost": null,
       "removed": null,
       "created_at": "2021-11-23 14:30:20",
