@@ -27,7 +27,7 @@
       "fake": 0,
       "dopfields": [],
       "file": [
-        "/storage/resource/templates/base/product/empty.png"
+        "http://test.com/base/product/434v45f43empty.png"
       ],
       "product_custom_field_value": [],
       "files": []
@@ -43,7 +43,7 @@
       "fake": 0,
       "dopfields": [],
       "file": [
-        "/storage/resource/templates/base/product/empty.png"
+        "http://test.com/base/product/434v45f43dsfdfrewf.jpg"
       ],
       "product_custom_field_value": [],
       "files": []
@@ -63,7 +63,7 @@
       "deleted_at": null,
       "dopfields": [],
       "file": [
-        "/storage/resource/templates/base/product/empty.png"
+        "http://test.com/base/product/3443wfff43dsfdfrewf.jpg"
       ],
       "product_custom_field_value": [],
       "files": []
@@ -79,7 +79,7 @@
       "fake": 0,
       "dopfields": [],
       "file": [
-        "/storage/resource/templates/base/product/empty.png"
+        "http://test.com/base/product/78687uyujhjh.jpg"
       ],
       "product_custom_field_value": [],
       "files": []
