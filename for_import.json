@@ -1,9 +1,9 @@
 [
   {
-    "PriceID": 67738,
-    "PriceFullName": "Тип домокомплекта/OPTI",
+    "article": 67738,
+    "name": "Тип домокомплекта/OPTI",
     "PriceShortName": "OPTI",
-    "Price": 4580000,
+    "cost": 4580000,
     "HouseName": "OPTI",
     "HouseID": 47,
     "PositionName": "OPTI",
