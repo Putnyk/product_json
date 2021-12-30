@@ -1,12 +1,4 @@
 {
-  "pagination": {
-    "total": 1,
-    "per_page": "20",
-    "current_page": 1,
-    "last_page": 1,
-    "from": 1,
-    "to": 1
-  },
   "products": [
     {
       "id": 3736,
@@ -21,16 +13,6 @@
       "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [
-        {
-          "id": 127,
-          "value": "114"
-        },
-        {
-          "id": 228,
-          "value": "248"
-        }
-      ],
       "file": [
         "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg"
       ]
