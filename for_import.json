@@ -4,10 +4,9 @@
       "id": 3736,
       "name": "Windows",
       "article": "15-15",
-      "description": "333Тут описание1111",
-      "cost": "17777.77",
+      "description": "2Тут описание1111",
+      "cost": "997777.77",
       "prime_cost": "0.00",
-      "account_id": 39,
       "file": [
         "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg"
       ]
@@ -15,8 +14,8 @@
     {
       "name": "11Windows",
       "article": "15-14",
-      "description": "4444Тут описание1111",
-      "cost": "667777.77",
+      "description": "6Тут описание1111",
+      "cost": "777777.77",
       "prime_cost": "0.00",
       "account_id": 39,
       "file": [
