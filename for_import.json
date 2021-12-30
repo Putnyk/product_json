@@ -2,20 +2,20 @@
   "products": [
     {
       "id": 3736,
-      "name": "Windows",
+      "name": "1Windows",
       "article": "15-15",
-      "description": "2Тут описание1111",
-      "cost": "997777.77",
+      "description": "1Тут описание1111",
+      "cost": "17777.77",
       "prime_cost": "0.00",
       "file": [
-        "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg"
+        "https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo.png"
       ]
     },
     {
-      "name": "11Windows",
+      "name": "2Windows",
       "article": "15-14",
-      "description": "6Тут описание1111",
-      "cost": "777777.77",
+      "description": "2Тут описание1111",
+      "cost": "667777.77",
       "prime_cost": "0.00",
       "account_id": 39,
       "file": [
