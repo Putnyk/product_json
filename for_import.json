@@ -1,34 +1,292 @@
 {
+  "pagination": {
+    "total": 3,
+    "per_page": "20",
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 3
+  },
   "products": [
     {
+      "id": 3763,
       "name": "1Windows",
       "article": "15-11",
       "description": "1Тут описание",
       "cost": "11.11",
-      "prime_cost": "0.00",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-12-30 15:48:30",
+      "updated_at": "2021-12-30 15:48:30",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
       "file": [
-        "https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo.png"
-      ]
+        "/storage/resource/templates/base/product/empty.png"
+      ],
+      "product_custom_field_value": [],
+      "files": []
     },
     {
+      "id": 3764,
       "name": "2Windows",
       "article": "15-12",
       "description": "2Тут описание",
-      "cost": "222.222",
-      "prime_cost": "0.00",
+      "cost": "222.22",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-12-30 15:48:30",
+      "updated_at": "2022-01-04 11:19:48",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
       "file": [
-        "/storage/dev-blablatest/c8ae38fd8774bdffb36020a9ed9bc041.jpg"
-      ]
+        "/storage/resource/templates/base/product/empty.png"
+      ],
+      "product_custom_field_value": [],
+      "files": []
     },
     {
+      "id": 3765,
       "name": "3Windows",
       "article": "15-13",
       "description": "3Тут описание",
-      "cost": "3333.3333",
-      "prime_cost": "0.00",
+      "cost": "3333.33",
+      "prime_cost": null,
+      "removed": null,
+      "created_at": "2021-12-30 15:48:30",
+      "updated_at": "2022-01-04 11:19:48",
+      "account_id": 39,
+      "fake": 0,
+      "deleted_at": null,
+      "dopfields": [],
       "file": [
-        "https://logos-world.net/wp-content/uploads/2020/08/Dell-Logo.png"
-      ]
+        "/storage/resource/templates/base/product/empty.png"
+      ],
+      "product_custom_field_value": [],
+      "files": []
     }
-  ]
+  ],
+  "customField": [
+    {
+      "id": 127,
+      "name": "Проект",
+      "type": "category",
+      "created_at": "2019-05-23 14:27:46",
+      "updated_at": "2021-11-26 12:48:06",
+      "account_id": 39,
+      "position_number": 1,
+      "show": 0,
+      "system": 1,
+      "enum_values": [
+        {
+          "id": 114,
+          "product_custom_field_id": 127,
+          "value": "Баня",
+          "index": 0,
+          "created_at": "2019-05-23 14:27:46",
+          "updated_at": "2021-11-26 12:48:06"
+        },
+        {
+          "id": 246,
+          "product_custom_field_id": 127,
+          "value": "Mini",
+          "index": 1,
+          "created_at": "2021-11-26 12:48:06",
+          "updated_at": "2021-11-26 12:48:06"
+        },
+        {
+          "id": 250,
+          "product_custom_field_id": 127,
+          "value": "One 62",
+          "index": 2,
+          "created_at": "2021-11-26 12:49:17",
+          "updated_at": "2021-11-26 12:49:17"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "name": "Дополнительно",
+      "type": "select",
+      "created_at": "2021-11-26 12:47:15",
+      "updated_at": "2021-11-26 12:48:59",
+      "account_id": 39,
+      "position_number": 2,
+      "show": 0,
+      "system": 0,
+      "enum_values": [
+        {
+          "id": 247,
+          "product_custom_field_id": 228,
+          "value": "Домокомплект",
+          "index": 0,
+          "created_at": "2021-11-26 12:48:59",
+          "updated_at": "2021-11-26 12:48:59"
+        },
+        {
+          "id": 248,
+          "product_custom_field_id": 228,
+          "value": "PIR, пир",
+          "index": 1,
+          "created_at": "2021-11-26 12:48:59",
+          "updated_at": "2021-11-26 12:48:59"
+        },
+        {
+          "id": 249,
+          "product_custom_field_id": 228,
+          "value": "Фундамент",
+          "index": 2,
+          "created_at": "2021-11-26 12:48:59",
+          "updated_at": "2021-11-26 12:48:59"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "name": "Домокомплект",
+      "type": "select",
+      "created_at": "2021-11-26 12:50:00",
+      "updated_at": "2021-11-26 12:50:00",
+      "account_id": 39,
+      "position_number": 3,
+      "show": 0,
+      "system": 0,
+      "enum_values": [
+        {
+          "id": 251,
+          "product_custom_field_id": 229,
+          "value": "One 62",
+          "index": 0,
+          "created_at": "2021-11-26 12:50:00",
+          "updated_at": "2021-11-26 12:50:00"
+        },
+        {
+          "id": 252,
+          "product_custom_field_id": 229,
+          "value": "Баня",
+          "index": 1,
+          "created_at": "2021-11-26 12:50:00",
+          "updated_at": "2021-11-26 12:50:00"
+        },
+        {
+          "id": 253,
+          "product_custom_field_id": 229,
+          "value": "Mini",
+          "index": 2,
+          "created_at": "2021-11-26 12:50:00",
+          "updated_at": "2021-11-26 12:50:00"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Текст",
+      "type": "text",
+      "created_at": "2021-11-26 12:50:14",
+      "updated_at": "2021-11-26 12:50:14",
+      "account_id": 39,
+      "position_number": 4,
+      "show": 0,
+      "system": 0,
+      "enum_values": []
+    }
+  ],
+  "baseCurrency": {
+    "id": 282,
+    "name": "Российский рубль",
+    "code": 643,
+    "sync": 1,
+    "rate": "1.00",
+    "sign": null,
+    "basic": 1,
+    "created_at": "2019-03-11 13:35:45",
+    "updated_at": "2021-05-27 13:52:16",
+    "account_id": 39,
+    "syncRate": "1.0000",
+    "charCode": "RUB"
+  },
+  "tableView": [
+    {
+      "name": "Фото",
+      "description": "file",
+      "visible": 1,
+      "position": 3,
+      "column_id": 1,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Название",
+      "description": "name",
+      "visible": 1,
+      "position": 1,
+      "column_id": 2,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Цена",
+      "description": "cost",
+      "visible": 1,
+      "position": 2,
+      "column_id": 3,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Артикул",
+      "description": "article",
+      "visible": 1,
+      "position": 0,
+      "column_id": 4,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Описание",
+      "description": "description",
+      "visible": 1,
+      "position": 6,
+      "column_id": 5,
+      "custom_fields_id": null
+    },
+    {
+      "name": "Проект",
+      "description": "Проект",
+      "visible": 1,
+      "position": 8,
+      "column_id": null,
+      "custom_fields_id": 127
+    },
+    {
+      "name": "Дополнительно",
+      "description": "Дополнительно",
+      "visible": 1,
+      "position": 4,
+      "column_id": null,
+      "custom_fields_id": 228
+    },
+    {
+      "name": "Домокомплект",
+      "description": "Домокомплект",
+      "visible": 1,
+      "position": 5,
+      "column_id": null,
+      "custom_fields_id": 229
+    },
+    {
+      "name": "Текст",
+      "description": "Текст",
+      "visible": 1,
+      "position": 7,
+      "column_id": null,
+      "custom_fields_id": 230
+    }
+  ],
+  "translation": {
+    "product": "Рекомендуемый размер фото 325 х 325 px в png",
+    "employee": "Рекомендуемый размер фото 300 х 300 px в png",
+    "logo": "Рекомендуемый размер фото 340 х 80 px в png",
+    "cover": "Рекомендуемый размер фото 1300 х 300 px в png",
+    "gallery": "Рекомендуемый размер фото 1300 х 867 px в png"
+  }
 }
