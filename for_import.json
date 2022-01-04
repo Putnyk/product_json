@@ -14,19 +14,88 @@
       "article": "15-11",
       "description": "1Тут описание",
       "cost": "11.11",
-      "prime_cost": null,
+      "prime_cost": "0.00",
       "removed": null,
       "created_at": "2021-12-30 15:48:30",
-      "updated_at": "2021-12-30 15:48:30",
+      "updated_at": "2022-01-04 12:15:48",
       "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [],
+      "dopfields": [
+        {
+          "id": 228,
+          "value": "249"
+        }
+      ],
       "file": [
         "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [],
-      "files": []
+      "product_custom_field_value": [
+        {
+          "id": 3344,
+          "product_id": 3763,
+          "product_custom_field_id": 228,
+          "value": "249",
+          "created_at": "2022-01-04 12:15:48",
+          "updated_at": "2022-01-04 12:15:48",
+          "field": {
+            "id": 228,
+            "name": "Дополнительно",
+            "type": "select",
+            "created_at": "2021-11-26 12:47:15",
+            "updated_at": "2021-11-26 12:48:59",
+            "account_id": 39,
+            "position_number": 2,
+            "show": 0,
+            "system": 0,
+            "enum_values": [
+              {
+                "id": 247,
+                "product_custom_field_id": 228,
+                "value": "Домокомплект",
+                "index": 0,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              },
+              {
+                "id": 248,
+                "product_custom_field_id": 228,
+                "value": "PIR, пир",
+                "index": 1,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              },
+              {
+                "id": 249,
+                "product_custom_field_id": 228,
+                "value": "Фундамент",
+                "index": 2,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 249,
+            "product_custom_field_id": 228,
+            "value": "Фундамент",
+            "index": 2,
+            "created_at": "2021-11-26 12:48:59",
+            "updated_at": "2021-11-26 12:48:59"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 364,
+          "product_id": 3763,
+          "file_id": 0,
+          "created_at": "2022-01-04 12:15:48",
+          "updated_at": "2022-01-04 12:15:48",
+          "src": "/storage/resource/templates/base/product/empty.png",
+          "file_relation": null
+        }
+      ]
     },
     {
       "id": 3764,
@@ -34,19 +103,88 @@
       "article": "15-12",
       "description": "2Тут описание",
       "cost": "222.22",
-      "prime_cost": null,
+      "prime_cost": "0.00",
       "removed": null,
       "created_at": "2021-12-30 15:48:30",
-      "updated_at": "2022-01-04 11:19:48",
+      "updated_at": "2022-01-04 12:15:53",
       "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [],
+      "dopfields": [
+        {
+          "id": 228,
+          "value": "248"
+        }
+      ],
       "file": [
         "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [],
-      "files": []
+      "product_custom_field_value": [
+        {
+          "id": 3345,
+          "product_id": 3764,
+          "product_custom_field_id": 228,
+          "value": "248",
+          "created_at": "2022-01-04 12:15:53",
+          "updated_at": "2022-01-04 12:15:53",
+          "field": {
+            "id": 228,
+            "name": "Дополнительно",
+            "type": "select",
+            "created_at": "2021-11-26 12:47:15",
+            "updated_at": "2021-11-26 12:48:59",
+            "account_id": 39,
+            "position_number": 2,
+            "show": 0,
+            "system": 0,
+            "enum_values": [
+              {
+                "id": 247,
+                "product_custom_field_id": 228,
+                "value": "Домокомплект",
+                "index": 0,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              },
+              {
+                "id": 248,
+                "product_custom_field_id": 228,
+                "value": "PIR, пир",
+                "index": 1,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              },
+              {
+                "id": 249,
+                "product_custom_field_id": 228,
+                "value": "Фундамент",
+                "index": 2,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 248,
+            "product_custom_field_id": 228,
+            "value": "PIR, пир",
+            "index": 1,
+            "created_at": "2021-11-26 12:48:59",
+            "updated_at": "2021-11-26 12:48:59"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 365,
+          "product_id": 3764,
+          "file_id": 0,
+          "created_at": "2022-01-04 12:15:53",
+          "updated_at": "2022-01-04 12:15:53",
+          "src": "/storage/resource/templates/base/product/empty.png",
+          "file_relation": null
+        }
+      ]
     },
     {
       "id": 3765,
@@ -54,19 +192,88 @@
       "article": "15-13",
       "description": "3Тут описание",
       "cost": "3333.33",
-      "prime_cost": null,
+      "prime_cost": "0.00",
       "removed": null,
       "created_at": "2021-12-30 15:48:30",
-      "updated_at": "2022-01-04 11:19:48",
+      "updated_at": "2022-01-04 12:16:00",
       "account_id": 39,
       "fake": 0,
       "deleted_at": null,
-      "dopfields": [],
+      "dopfields": [
+        {
+          "id": 228,
+          "value": "247"
+        }
+      ],
       "file": [
         "/storage/resource/templates/base/product/empty.png"
       ],
-      "product_custom_field_value": [],
-      "files": []
+      "product_custom_field_value": [
+        {
+          "id": 3346,
+          "product_id": 3765,
+          "product_custom_field_id": 228,
+          "value": "247",
+          "created_at": "2022-01-04 12:16:00",
+          "updated_at": "2022-01-04 12:16:00",
+          "field": {
+            "id": 228,
+            "name": "Дополнительно",
+            "type": "select",
+            "created_at": "2021-11-26 12:47:15",
+            "updated_at": "2021-11-26 12:48:59",
+            "account_id": 39,
+            "position_number": 2,
+            "show": 0,
+            "system": 0,
+            "enum_values": [
+              {
+                "id": 247,
+                "product_custom_field_id": 228,
+                "value": "Домокомплект",
+                "index": 0,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              },
+              {
+                "id": 248,
+                "product_custom_field_id": 228,
+                "value": "PIR, пир",
+                "index": 1,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              },
+              {
+                "id": 249,
+                "product_custom_field_id": 228,
+                "value": "Фундамент",
+                "index": 2,
+                "created_at": "2021-11-26 12:48:59",
+                "updated_at": "2021-11-26 12:48:59"
+              }
+            ]
+          },
+          "field_enum_value": {
+            "id": 247,
+            "product_custom_field_id": 228,
+            "value": "Домокомплект",
+            "index": 0,
+            "created_at": "2021-11-26 12:48:59",
+            "updated_at": "2021-11-26 12:48:59"
+          }
+        }
+      ],
+      "files": [
+        {
+          "id": 366,
+          "product_id": 3765,
+          "file_id": 0,
+          "created_at": "2022-01-04 12:16:00",
+          "updated_at": "2022-01-04 12:16:00",
+          "src": "/storage/resource/templates/base/product/empty.png",
+          "file_relation": null
+        }
+      ]
     }
   ],
   "customField": [
