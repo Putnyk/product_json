@@ -9,7 +9,7 @@
   },
   "products": [
     {
-      "id": 3796,
+      "id": 3873,
       "name": "1Windows",
       "article": "15-11",
       "description": "1Тут описание",
@@ -33,7 +33,7 @@
       "product_custom_field_value": [
         {
           "id": 3347,
-          "product_id": 3796,
+          "product_id": 3873,
           "product_custom_field_id": 228,
           "value": "247",
           "created_at": "2022-01-06 14:54:41",
@@ -88,7 +88,7 @@
       "files": [
         {
           "id": 367,
-          "product_id": 3796,
+          "product_id": 3873,
           "file_id": 0,
           "created_at": "2022-01-06 14:54:41",
           "updated_at": "2022-01-06 14:54:41",
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "id": 3797,
+      "id": 3874,
       "name": "2Windows",
       "article": "15-12",
       "description": "2Тут описание",
@@ -122,7 +122,7 @@
       "product_custom_field_value": [
         {
           "id": 3348,
-          "product_id": 3797,
+          "product_id": 3874,
           "product_custom_field_id": 228,
           "value": "248",
           "created_at": "2022-01-06 14:54:46",
@@ -177,7 +177,7 @@
       "files": [
         {
           "id": 368,
-          "product_id": 3797,
+          "product_id": 3874,
           "file_id": 0,
           "created_at": "2022-01-06 14:54:46",
           "updated_at": "2022-01-06 14:54:46",
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "id": 3798,
+      "id": 3875,
       "name": "3Windows",
       "article": "15-13",
       "description": "3Тут описание",
@@ -211,7 +211,7 @@
       "product_custom_field_value": [
         {
           "id": 3349,
-          "product_id": 3798,
+          "product_id": 3875,
           "product_custom_field_id": 228,
           "value": "249",
           "created_at": "2022-01-06 14:54:53",
@@ -266,7 +266,7 @@
       "files": [
         {
           "id": 369,
-          "product_id": 3798,
+          "product_id": 3875,
           "file_id": 0,
           "created_at": "2022-01-06 14:54:53",
           "updated_at": "2022-01-06 14:54:53",
