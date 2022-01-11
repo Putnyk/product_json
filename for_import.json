@@ -97,16 +97,16 @@
         }
       ]
     },
-    {
+        {
       "id": 3874,
-      "name": "2Windows",
-      "article": "15-12",
-      "description": "2Тут описание",
-      "cost": "222.22",
+      "name": "1Windows",
+      "article": "15-11",
+      "description": "1Тут описание",
+      "cost": "11.11",
       "prime_cost": "0.00",
       "removed": null,
       "created_at": "2022-01-06 14:43:18",
-      "updated_at": "2022-01-06 14:54:46",
+      "updated_at": "2022-01-06 14:54:41",
       "account_id": 39,
       "fake": 0,
       "deleted_at": null,
@@ -121,12 +121,12 @@
       ],
       "product_custom_field_value": [
         {
-          "id": 3348,
+          "id": 3374,
           "product_id": 3874,
           "product_custom_field_id": 228,
-          "value": "248",
-          "created_at": "2022-01-06 14:54:46",
-          "updated_at": "2022-01-06 14:54:46",
+          "value": "247",
+          "created_at": "2022-01-06 14:54:41",
+          "updated_at": "2022-01-06 14:54:41",
           "field": {
             "id": 228,
             "name": "Дополнительно",
@@ -165,10 +165,10 @@
             ]
           },
           "field_enum_value": {
-            "id": 248,
+            "id": 247,
             "product_custom_field_id": 228,
-            "value": "PIR, пир",
-            "index": 1,
+            "value": "Домокомплект",
+            "index": 0,
             "created_at": "2021-11-26 12:48:59",
             "updated_at": "2021-11-26 12:48:59"
           }
@@ -176,11 +176,11 @@
       ],
       "files": [
         {
-          "id": 368,
-          "product_id": 3874,
+          "id": 367,
+          "product_id": 3384,
           "file_id": 0,
-          "created_at": "2022-01-06 14:54:46",
-          "updated_at": "2022-01-06 14:54:46",
+          "created_at": "2022-01-06 14:54:41",
+          "updated_at": "2022-01-06 14:54:41",
           "src": "/storage/resource/templates/base/product/empty.png",
           "file_relation": null
         }
