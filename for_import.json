@@ -9,7 +9,7 @@
     "PositionName": "OPTI",
     "PositionID": 47,
     "GroupName": "Тип домокомплекта",
-    "SubGroupName": "ДК",
+    "SubGroupName": "250",
     "SectionName": "ДОМОКОМПЛЕКТ",
     "CategoryName": "Сумма ДК"
   },
@@ -23,7 +23,7 @@
     "PositionName": "MAXI",
     "PositionID": 48,
     "GroupName": "Тип домокомплекта",
-    "SubGroupName": "ДК",
+    "SubGroupName": "250",
     "SectionName": "ДОМОКОМПЛЕКТ",
     "CategoryName": "Сумма ДК"
   },
