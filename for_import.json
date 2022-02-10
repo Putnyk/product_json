@@ -1,12 +1,4 @@
 {
-  "pagination": {
-    "total": 2023,
-    "per_page": "20",
-    "current_page": 1,
-    "last_page": 102,
-    "from": 1,
-    "to": 20
-  },
   "products": [
     {
       "id": 351947,
